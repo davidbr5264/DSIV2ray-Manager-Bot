@@ -15,7 +15,7 @@
     "env": {
         "ADMINS": {
             "description": "Your Telegram ID use @my_id_bot",
-            "value": "",
+            "value": "606878265",
             "required": true
         },
         "CHROMEDRIVER_PATH": {
@@ -25,12 +25,12 @@
         },
         "IP": {
             "description": "Your vps ip",
-            "value": "",
+            "value": "20.219.121.97",
             "required": true
         },
         "TOKEN": {
             "description": "Your telegram bot token",
-            "value": "",
+            "value": "5557195079:AAH_DQ1yWaL0DVOfeP0RftuBolf9bZ4P6fE",
             "required": true
         }
     },
